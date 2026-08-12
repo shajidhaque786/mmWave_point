@@ -10,7 +10,7 @@ The project contains both:
 The notebook is intended to make the complete experiment easy to understand, reproduce and demonstrate to a supervisor.
 
 ---
-
+The required for this project is to large to be uploaded on github so here's the external link "https://drive.google.com/file/d/1rq8yyokrNhAGQryx7trpUqKenDnTI6Ky/view"
 ## 1. Project Structure
 
 ```text
